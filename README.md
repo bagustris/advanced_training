@@ -1,77 +1,79 @@
-# advanced_training
-Advanced Scikit-learn training session
+# Training Lanjut Sciki-learn
+Sesi lanjut training machine-learning dengan Scikit-learn.  
+Di fork dari @amueller/advanced_training, dikembangkan berdasarkan materi Scipy Japan 2019.
 
 # Outline
 
-## 1 Basic algorithms
-- Review of supervised learning
-- Linear models for classification and regression
-- Loss functions, regularization, empirical risk minimization
-- Path algorithms
-- Exercise: FIXME Regression
+## 1 Algoritma dasar
+- Review supervised learning
+- Model Linear untuk klasifikasi dan regresi
+- Loss functions, regularisai, minimimalisasi empirical risk
+- Algoritma path
+- Latiahan
 
-## 2 Basic tools
-- Cross-validation vs train/test split
+## 2 Perkakas dasr
+- Validasi silang vs train/test split
 - GridSearchCV
-- Overfitting Parameters
-- Scoring Metrics
-- Exercise: FIXME
+- Parameter Overfitting
+- Metrik skor
+- Latihan
 
 ## 3 Preprocessing
-- Scaling and normalization
-- Feature selection:
+- Scaling dan normalisasi
+- Seleksi fitur:
     - Univariate
     - Model-based
     - RFE
-    - Forward / backward selection
-- Polynomial and interaction features
+    - Seleksi maju/mundur
+- Polynomial dan interaksi fitur
+- Latihan
 
-- Exercise: FIXME
-
-## 4 Advanced tools
+## 4 Perkakas Lanjutan
 - Pipelines
-- FeatureUnion
-- Function Transformer?
-- Exercise: FIXME
+- Penggabungan fitur (FeatureUnion)
+- Fungsi Transformer?
+- Latihan
 
-## 5 Advanced Supervised Learning
+## 5 Supervised Learning Lanjut
 - Decision Tree Recap
 - Random Forests
 - Gradient Boosting / xgboost
 - Kernel SVMs
 - Kernel approximation
 - Neural Networks
-- Exercise: FIXME
+- Latihan
 
-## 6 Unsupervised feature extraction and visualization
+## 6 Ekstraksi fitur unsupervised dan visualisasi
 - PCA
 - NMF
 - Robust PCA?
 - TSNE
-- Exercise: FIXME
+- Latihan
 
 
-## 7 Outlier Detection
+## 7 Deteksi Outlier
 - Elliptic Envelope?
 - IForest ?
 - What else?
 - KDE?
 - SVM?
 - robust PCA?
-- Exercise: FIXME
+- Latihan
 
-## 8 Gaussian Processes
+## 8 Proses Gaussian
 - Non-iid data
 - Gaussian fit...
 - Covariance matrix is a kernel
-- regression, outlier detection, time series modelling
-- Exercise: FIXME
+- Regression, outlier detection, time series modelling
+- Latihan
 
-## 9 More Neural Networks
+## 9 Neural networks Lagi...
 
-## 10 beyond standard sklearn
+## 10 Diatas standard sklearn
 - warm starts
 - out of core
 - custom estimators
 
 
+Kontak dan workshop materi ini:
+btatmaja@gmail.com (Buku berdasarkan repo ini sedang direncanakan...)
